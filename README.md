@@ -11,10 +11,10 @@ It uses a K of 1 to look ahead of its current position.
 This tool uses individual tiles that the user designed in 3D software and combines them in a procedural process that creates a level that is entirely connected to a defined starting point. It also avoids having tiles lead into a space that would result in a player falling out of the generation. 
 
 
-<img src="Thumbnail.jpg" alt="example" width="50%"/>
+<img src="Thumbnail.jpg" alt="example" width="75%"/>
 
-<img src="run.PNG" alt="run UI" width="49%"/>
-<img src="WFC.PNG" alt="Result" width="49%"/>
+<img src="run.PNG" alt="run UI" width="48%"/>
+<img src="WFC.PNG" alt="Result" width="48%"/>
 
 
 
