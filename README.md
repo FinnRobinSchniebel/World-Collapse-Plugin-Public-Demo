@@ -12,7 +12,10 @@ This tool uses individual tiles that the user designed in 3D software and combin
 
 
 <img src="thumbnail.png" alt="drawing" width="55%"/>
-<img src="run.png" alt="drawing" width="49%"/>
+
+
+<img src="run.PNG" alt="drawing" width="49%"/>
+
 <img src="WFC.PNG" alt="drawing" width="49%"/>
 
 
